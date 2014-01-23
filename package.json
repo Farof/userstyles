@@ -1,0 +1,5 @@
+{
+  "websites": {
+    "lemonde.fr": ["ads", "comment", "nav", "social", "subscribe", "toolbar"]
+  }
+}
