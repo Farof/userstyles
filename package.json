@@ -1,9 +1,15 @@
 {
   "websites": {
     "lemonde.fr": {
-      "version": "1.0.0",
       "include": "*.lemonde.fr",
-      "mods": ["ads", "comment", "nav", "social", "subscribe", "toolbar"]
+      "mods": {
+        "ads": "1.0.0",
+        "comment": "1.0.0",
+        "nav": "1.0.0",
+        "social": "1.0.0",
+        "subscribe": "1.0.0",
+        "toolbar": "1.0.0"
+      }
     }
   }
 }
