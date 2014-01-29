@@ -3,12 +3,12 @@
     "lemonde.fr": {
       "include": "*.lemonde.fr",
       "mods": {
-        "ads": "1.0.0",
-        "comment": "1.0.0",
-        "nav": "1.0.0",
-        "social": "1.0.0",
-        "subscribe": "1.0.0",
-        "toolbar": "1.0.0"
+        "ads": "66d8fb017c71fb2b6c8ca01b2e83958762d6df80",
+        "comment": "85fc693d84550c01e5560295c28f84526380099c",
+        "nav": "b1df82dcfbbd24d2a8dafb86230e34be7a84a436",
+        "social": "dc2441e3d4421c252dbd1e9e021ff54365755162",
+        "subscribe": "fbe83db7075ef9b4f55b57067623387476f51395",
+        "toolbar": "a2ced21bdecb8c36585a3e0fc77cccfebeb83274"
       }
     }
   }
