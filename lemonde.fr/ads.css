@@ -25,7 +25,8 @@ body {
   pointer-events: none !important;
 }
 
-a {
+a,
+.global {
   pointer-events: auto !important;
 }
 
