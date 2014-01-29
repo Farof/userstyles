@@ -68,5 +68,7 @@ done
 json="${json}\n  }\n}"
 
 # write json to file
-echo -e "new $output generated:\n$json" > $output
+echo -e "new $output generated:"
+echo -en "$json" > $output
 cat $output
+echo
