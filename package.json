@@ -1,9 +1,18 @@
 {
   "websites": {
+    "arstechnica.com": {
+      "include": "*.arstechnica.com",
+      "mods": {
+        "ads": "e1e77b309f545ec3bcfde276966a02fd272e80c4",
+        "comment": "ec194c6f59d8090fb7ce27e15f0661d0da3a829c",
+        "nav": "3fe72cc20517af15e7063848395ae17d39a079be",
+        "subscribe": "dfcc02f7b303524f69191ae89347e10cf297db86"
+      }
+    },
     "lemonde.fr": {
       "include": "*.lemonde.fr",
       "mods": {
-        "ads": "66d8fb017c71fb2b6c8ca01b2e83958762d6df80",
+        "ads": "6aee01aa0653e1e7d6fbc484071bea69e3b2ea2c",
         "comment": "85fc693d84550c01e5560295c28f84526380099c",
         "nav": "b1df82dcfbbd24d2a8dafb86230e34be7a84a436",
         "social": "dc2441e3d4421c252dbd1e9e021ff54365755162",
