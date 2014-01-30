@@ -26,7 +26,8 @@ body {
 }
 
 a,
-.global {
+.global,
+.super_global {
   pointer-events: auto !important;
 }
 
