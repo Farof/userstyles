@@ -9,6 +9,12 @@
         "subscribe": "dfcc02f7b303524f69191ae89347e10cf297db86"
       }
     },
+    "bigbrowser.blog.lemonde.fr": {
+      "include": "*.bigbrowser.blog.lemonde.fr",
+      "mods": {
+        "nav": "3e7a98fcc590180c7cb8f17f499182831bc9e1b1"
+      }
+    },
     "lemonde.fr": {
       "include": "*.lemonde.fr",
       "mods": {
