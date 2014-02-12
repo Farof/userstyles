@@ -1,0 +1,26 @@
+body > .glob_wrapper:last-of-type,
+.nav-previous,
+.widget-area,
+.entry-utility,
+.post-report-link,
+#masthead {
+  display: none !important;
+  min-width: 0 !important;
+  min-height: 0 !important;
+  width: 0 !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+#main,
+#main_wrapper {
+  margin: 0 auto;
+  width: 620px;
+}
+
+.post,
+#content,
+#nav-above {
+  margin: 0 !important;
+}
