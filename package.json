@@ -25,6 +25,15 @@
         "subscribe": "fbe83db7075ef9b4f55b57067623387476f51395",
         "toolbar": "a2ced21bdecb8c36585a3e0fc77cccfebeb83274"
       }
+    },
+    "mediapart.fr": {
+      "include": "*.mediapart.fr",
+      "mods": {
+        "ads": "090478d9f6c306fd02a01b8e48a73a17146007f5",
+        "comment": "5b18f07f022c19929dbbe81d2bc470f36600dc5f",
+        "nav": "89659286d6205cb8b4c7b3ac9f092fe73faf3ae4",
+        "toolbar": "44a770d725d5640c0114cb656a1ba696225981ef"
+      }
     }
   }
 }
