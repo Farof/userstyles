@@ -1,0 +1,22 @@
+.header-region,
+.main-menu,
+.second-menu,
+.taxonomy-teaser,
+.not-front .col-right,
+.footer-region,
+.block-la-redaction,
+.bloc-archives,
+.bloc-bottom-links {
+  display: none !important;
+  min-width: 0 !important;
+  min-height: 0 !important;
+  width: 0 !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.not-front #pageFirstContent,
+.menu-article {
+  width: 70%;
+}
